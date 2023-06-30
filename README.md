@@ -1,5 +1,5 @@
 # 🙋🏽‍♂️About Me:
-Hey there 👋 I am Aaquil<br>I am studying my bachelor's in electronics ⚡ <br>And i like to work with IoT and Robotics 🤖<br>I am also a Web3 Developer creating a lot of Dapps and writing smart contracts 🧑🏽‍💻
+👋 Hello there! I'm Aaquil, a passionate electronics student diving into the exciting worlds of IoT and Robotics. I also thrive as a Web3 Developer, crafting captivating Dapps and writing smart contracts. Join me on this exhilarating journey of technology and innovation! 🚀
 
 
 ## 🌐 Socials:
