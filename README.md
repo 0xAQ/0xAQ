@@ -1,5 +1,5 @@
 # 🙋🏽‍♂️About Me:
-👋 Hello there! I'm Aaquil, a passionate electronics student diving into the exciting worlds of IoT and Robotics. I also thrive as a Web3 Developer, crafting captivating Dapps and writing smart contracts. Join me on this exhilarating journey of technology and innovation! 🚀
+A passionate, forward-thinking developer driven by curiosity, perpetually immersed in the world of embedded systems, robotics, and the art of firmware development. 🚀
 
 
 ## 🌐 Socials:
